@@ -2,9 +2,9 @@
 
 # AND101 Project 2 - Kotlin Debug-a-thon
 
-Submitted by: **Your Name Here**
+Submitted by: **Isfahan Juboraj**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Summary
 
